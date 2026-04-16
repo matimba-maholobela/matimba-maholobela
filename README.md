@@ -60,7 +60,7 @@ Leading a team of five developers to build a logistics-focused web application m
 
 ## 🚀 **Featured Projects**
 
-### 🌐 [SQL Assignment System](https://github.com/MatimbaMaholobela/sqltest-system)
+### 🌐 [SQL Assignment System](https://github.com/matimba-maholobela/sqltest-system)
 A system that streamlines **SQL assignment creation and grading** for computer science students using Django.
 
 **Tech:** Django • Python • SQL  
@@ -71,7 +71,7 @@ A system that streamlines **SQL assignment creation and grading** for computer s
 
 ---
 
-### 🩺 [CS2 Admin System](https://github.com/MatimbaMaholobela/cs2-admin-system)
+### 🩺 [CS2 Admin System](https://github.com/matimba-maholobela/cs2-admin-system)
 Admin portal for managing **academic certificates, waivers, and extensions** with a Django REST backend.
 
 **Tech:** Django • REST APIs  
@@ -92,7 +92,7 @@ A **Spring-based task management app** with persistent storage and analytics.
 
 ---
 
-### 🧩 [DNS Server with APL Record Support](https://github.com/MatimbaMaholobela/DNS-Server-APL-Record)
+### 🧩 [DNS Server with APL Record Support](https://github.com/matimba-maholobela/DNS-Server-APL-Record)
 A **custom DNS server** built in Python using Twisted, supporting the experimental APL (Address Prefix List) record.
 
 **Tech:** Python • Twisted  
@@ -143,26 +143,26 @@ A **custom DNS server** built in Python using Twisted, supporting the experiment
 ## 📊 **GitHub Insights**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatimbaMaholobela&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatimbaMaholobela&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matimba-maholobela&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matimba-maholobela&theme=tokyonight" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatimbaMaholobela&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matimba-maholobela&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatimbaMaholobela&theme=tokyonight&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=matimba-maholobela&theme=tokyonight&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
 ## 📈 **Contribution Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatimbaMaholobela&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matimba-maholobela&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
