@@ -187,21 +187,49 @@ A technically impressive system that makes someone's workflow worse isn't a succ
 
 ---
 
-## `> github`
+## `> github-insights`
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=matimba-maholobela&show_icons=true&hide_border=true&theme=transparent"
-    alt="Matimba Maholobela GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=matimba-maholobela&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
     height="165"
-  >
+  />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matimba-maholobela&layout=compact&hide_border=true&theme=transparent"
-    alt="Matimba Maholobela Most Used Languages"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=matimba-maholobela&theme=tokyonight"
+    alt="GitHub Streak"
     height="165"
-  >
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matimba-maholobela&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## `> github-trophies`
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=matimba-maholobela&theme=tokyonight&no-bg=true&no-frame=true"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## `> contribution-graph`
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=matimba-maholobela&theme=tokyo-night"
+    alt="GitHub Contribution Graph"
+  />
+</p>
 ---
 
 ## `> connect`
