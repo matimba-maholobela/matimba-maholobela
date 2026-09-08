@@ -201,10 +201,7 @@ A technically impressive system that makes someone's workflow worse isn't a succ
 ## `> github-trophies`
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=matimba-maholobela&theme=tokyonight&no-bg=true&no-frame=true"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=matimba-maholobela&theme=tokyonight&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -212,10 +209,8 @@ A technically impressive system that makes someone's workflow worse isn't a succ
 ## `> contribution-graph`
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=matimba-maholobela&theme=tokyo-night"
-    alt="GitHub Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matimba-maholobela&theme=tokyo-night" alt="Contribution Graph" />
+</p>
 </p>
 
 ## `> connect`
