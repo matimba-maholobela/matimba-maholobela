@@ -1,7 +1,4 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="banner.png" alt="Matimba Maholobela Banner" width="100%">
-</p>
 
 <h1 align="center">Matimba Maholobela</h1>
 
