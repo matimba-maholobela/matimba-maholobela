@@ -3,178 +3,218 @@
   <img src="banner.png" alt="Matimba Maholobela Banner" width="100%">
 </p>
 
----
+<h1 align="center">Matimba Maholobela</h1>
 
-# 👋 Hey there! I'm **Matimba Maholobela**
+<p align="center">
+  <strong>Software Engineer · Backend Systems · Cloud · DevOps</strong>
+</p>
 
-🔧 **Software Engineer** • ☁️ **AWS Cloud Practitioner** • 💻 **Full-Stack Developer** • 🚀 **Continuous Learner**
-
-Welcome to my GitHub space!  
-I’m a dedicated software engineer passionate about **building scalable, maintainable, and impactful systems**.  
-With expertise in **software development, cloud computing, and DevOps**, I aim to deliver solutions that make a difference.
-
-> 🏅 Proud recipient of multiple **SEACOM Excellence in Action Awards**
-
----
-
-## 🎓 **Certifications**
-
-- 🎓 **BSc in Computer Science & Applied Statistics – University of Cape Town**  
-- 🏆 **AWS Certified Cloud Practitioner**  
-- 🚀 **AWS Certified Developer – Associate (In Progress)**  
-- 💼 **SEACOM - Excellence in Action Certificates (Multiple)**  
+<p align="center">
+  <a href="https://linkedin.com/in/matimbamaholobela">
+    <img src="https://img.shields.io/badge/LinkedIn-Matimba%20Maholobela-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:matimba.maholobela@icloud.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-555555?style=flat-square&logo=maildotru&logoColor=white" alt="Email">
+  </a>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner">
+</p>
 
 ---
 
-## 👨‍💼 **Current Role**
+## `> whoami`
 
-### 🏢 Lead Software Engineer @ [Storage Sprint](https://www.storagesprint.co.za)
+I build software around a simple idea:
 
-Leading a team of five developers to build a logistics-focused web application managing package movements across Cape Town.
+> **Good engineering should remove complexity, not move it somewhere else.**
 
-#### 🧠 **Responsibilities**
-- Architecting and managing full-stack solutions  
-- Overseeing CI/CD pipelines and agile workflows  
-- Ensuring scalability, performance, and security  
+I'm a software engineer focused on **backend systems, APIs, automation, cloud infrastructure and DevOps**.
 
-#### ✨ **Key Features**
-- Real-time **package tracking**  
-- Secure **PayFast** payment integration  
-- RESTful backend (**Django**) + reactive frontend (**React**)  
+I enjoy working beyond application code — from databases and third-party integrations to CI/CD, code quality, monitoring, containers, networking and deployment infrastructure.
 
-#### ⚙️ **Tech Stack**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-
-**Backend:** Django REST Framework
-**Frontend:** React  
-**Database:** Amazon RDS  
-**Containerization:** Docker  
-**Hosting:** AWS & DigitalOcean  
-**Integrations:** Google Maps, Zoho Books, PayFast  
+```text
+STATUS       ● Building
+FOCUS        Backend Systems + Cloud + DevOps
+LANGUAGES    Python / Java / JavaScript
+FRAMEWORKS   Django / Spring Boot / React
+CLOUD        AWS
+LOCATION     South Africa
+```
 
 ---
 
-## 🚀 **Featured Projects**
+## `> currently-building`
 
-### 🌐 [SQL Assignment System](https://github.com/matimba-maholobela/sqltest-system)
-A system that streamlines **SQL assignment creation and grading** for computer science students using Django.
+### 🚚 Storage Sprint
 
-**Tech:** Django • Python • SQL  
-**Highlights:**
-- Automated SQL query evaluation  
-- Simplified instructor UI  
-- Optimized for classroom scalability  
+A logistics platform designed to manage package movements, tracking and operational workflows.
+
+**What I'm working on:**
+
+- Full-stack architecture and application development
+- REST APIs using Django REST Framework
+- Package tracking and logistics workflows
+- Payment and third-party integrations
+- CI/CD pipelines and deployment workflows
+- Cloud infrastructure and application hosting
+- Application monitoring and code quality
+- Engineering coordination across a small development team
+
+`Django` `React` `PostgreSQL` `Docker` `AWS` `DigitalOcean` `PayFast` `Google Maps`
+
+---
+
+## `> selected-projects`
+
+### 🧪 [SQL Assignment System](https://github.com/matimba-maholobela/sqltest-system)
+
+**Problem:** manually assessing SQL submissions does not scale effectively.
+
+**Built:** a Django-based system for creating SQL assignments and automatically evaluating student queries.
+
+**Engineering focus:** automated assessment, predictable query validation and simplifying the workflow for instructors.
+
+`Python` `Django` `SQL`
 
 ---
 
 ### 🩺 [CS2 Admin System](https://github.com/matimba-maholobela/cs2-admin-system)
-Admin portal for managing **academic certificates, waivers, and extensions** with a Django REST backend.
 
-**Tech:** Django • REST APIs  
-**Highlights:**
-- Secure, role-based management  
-- RESTful integration with frontend  
+**Problem:** academic administration workflows such as certificates, waivers and extensions require structured and secure management.
 
----
+**Built:** an administration platform backed by REST APIs and role-aware workflows.
 
-### ☕ [To-Do List Application](https://github.com/MatimbaMaholobela/to-do-list-app)
-A **Spring-based task management app** with persistent storage and analytics.
+**Engineering focus:** API design, access control and maintainable administrative processes.
 
-**Tech:** Java • Spring • SQLite  
-**Highlights:**
-- Full CRUD functionality  
-- Analytics dashboard  
-- Clean and minimal UI  
+`Python` `Django` `REST APIs`
 
 ---
 
 ### 🧩 [DNS Server with APL Record Support](https://github.com/matimba-maholobela/DNS-Server-APL-Record)
-A **custom DNS server** built in Python using Twisted, supporting the experimental APL (Address Prefix List) record.
 
-**Tech:** Python • Twisted  
-**Highlights:**
-- Implements APL per RFC  
-- Low-level network programming  
-- Custom DNS protocol logic  
+**Problem:** explore DNS beyond standard application-level abstractions.
 
----
+**Built:** a custom DNS server in Python using Twisted with support for the experimental APL (Address Prefix List) record.
 
-## ⚙️ **Tech Stack & Skills**
+**Engineering focus:** protocol behaviour, RFC-driven implementation and low-level networking concepts.
 
-### 💻 **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-- **Python:** Django, REST Framework, Twisted  
-- **Java:** Spring Framework  
-- **JavaScript:** React  
-- **SQL:** PostgreSQL, MySQL, SQLite, Amazon RDS  
+`Python` `Twisted` `DNS` `Networking`
 
 ---
 
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+### ☕ [To-Do List Application](https://github.com/MatimbaMaholobela/to-do-list-app)
 
-- **AWS:** EC2, S3, RDS, IAM, CloudFormation  
-- **Docker:** Containerization & Orchestration  
-- **CI/CD:** GitHub Actions  
-- **Linux:** Ubuntu, FreeBSD  
+A Spring-based task management application with persistent storage, CRUD operations and analytics.
+
+**Engineering focus:** Java application structure, persistence and backend-driven workflows.
+
+`Java` `Spring` `SQLite`
 
 ---
 
-### 🧰 **Tools & Methodologies**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## `> engineering-principles`
 
-- **Agile Project Management:** Jira, Confluence  
-- **Version Control:** GitHub, GitLab  
-- **Collaboration:** Code reviews, documentation-first  
+### Automate repetition
+
+If a process happens repeatedly, I start asking whether software should be doing it.
+
+### Keep APIs predictable
+
+Clear contracts, sensible errors and maintainable interfaces beat clever abstractions.
+
+### Understand the whole system
+
+Application code is only one part of software engineering.
+
+I like understanding how the **application, database, network, infrastructure, monitoring and deployment pipeline** behave together.
+
+### Build for the person using it
+
+A technically impressive system that makes someone's workflow worse isn't a successful system.
 
 ---
 
-## 📊 **GitHub Insights**
+## `> toolbox`
+
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      Python · Django · Django REST Framework · Java · Spring Boot · REST APIs
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      React · JavaScript · HTML · CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>
+      PostgreSQL · MySQL · SQLite · Amazon RDS
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td>
+      AWS · Docker · DigitalOcean · Linux · GitHub Actions · CI/CD
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Quality & Monitoring</strong></td>
+    <td>
+      Sentry · Qodana · SonarQube · Codecov · CircleCI
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Engineering</strong></td>
+    <td>
+      Git · GitHub · GitLab · Jira · Confluence · Agile · Code Reviews
+    </td>
+  </tr>
+</table>
+
+---
+
+## `> credentials`
+
+- 🎓 **BSc Computer Science & Applied Statistics** — University of Cape Town
+- ☁️ **AWS Certified Cloud Practitioner**
+- 📚 **AWS Certified Developer – Associate** — currently developing toward certification
+- 🏅 Recipient of multiple **SEACOM Excellence in Action Awards**
+
+---
+
+## `> github`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matimba-maholobela&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matimba-maholobela&theme=tokyonight" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matimba-maholobela&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matimba-maholobela&theme=tokyonight&no-bg=true&no-frame=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=matimba-maholobela&show_icons=true&hide_border=true&theme=transparent"
+    alt="Matimba Maholobela GitHub Stats"
+    height="165"
+  >
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matimba-maholobela&layout=compact&hide_border=true&theme=transparent"
+    alt="Matimba Maholobela Most Used Languages"
+    height="165"
+  >
 </p>
 
 ---
 
-## 📈 **Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matimba-maholobela&theme=tokyo-night" alt="Contribution Graph" />
-</p>
+## `> connect`
 
----
+I'm always interested in conversations around:
 
-## 🤝 **Let’s Connect**
+**Backend Engineering · Cloud Infrastructure · DevOps · Automation · APIs · Software Quality**
 
-[![LinkedIn - Matimba Maholobela](https://img.shields.io/badge/LinkedIn-MatimbaMaholobela-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matimbamaholobela)
-[![Email - Matimba](https://img.shields.io/badge/Email-matimba.maholobela%40icloud.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matimba.maholobela@icloud.com)
+[LinkedIn](https://linkedin.com/in/matimbamaholobela) · [Email](mailto:matimba.maholobela@icloud.com)
 
-> 💬 Open to **collaboration**, **new ideas**, and **tech discussions**!
-
----
-
-## 🎯 **Fun Fact**
-> I’m always exploring new frameworks, automating workflows, and building solutions that make life easier — **one line of code at a time**.
+```text
+matimba@github:~$ build --learn --improve
+```
