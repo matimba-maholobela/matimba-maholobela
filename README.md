@@ -186,26 +186,13 @@ A technically impressive system that makes someone's workflow worse isn't a succ
 - 🏅 Recipient of multiple **SEACOM Excellence in Action Awards**
 
 ---
-
 ## `> github-insights`
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=matimba-maholobela&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=matimba-maholobela&theme=tokyonight"
     alt="GitHub Streak"
     height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matimba-maholobela&layout=compact&theme=tokyonight"
-    alt="Top Languages"
   />
 </p>
 
@@ -230,7 +217,6 @@ A technically impressive system that makes someone's workflow worse isn't a succ
     alt="GitHub Contribution Graph"
   />
 </p>
----
 
 ## `> connect`
 
